@@ -10,14 +10,12 @@ begginner-friendly code with clear structure.
 clone this repository
 compile the code`g++ 
 calculator.cpp -o calculator`
-Run the programm `./calculator`
-## Example Run
-===== Simple Calculator =====
+Run the programm `./calculator
+# example run
 Enter first number: 10
-Enter operator (+, -, *, /): *
-Enter second number: 5
------------------------------
-Result: 50
+Enter operator (+, _, *, /): *
+Enter second number : 5
+result: 50`
 ## Learning Outcome
 - Learned input/output in C++
 - Practiced switch statement
