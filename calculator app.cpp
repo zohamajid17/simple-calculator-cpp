@@ -11,13 +11,13 @@
 	
 	
 	//Take input from user
-	cout << "Entre first number: ";
+	cout << "Enter first number: ";
 	cin >> num1;
 	
-	cout <<"Entre any operator (+ , - , * , /) ";
+	cout <<"Enter any operator (+ , - , * , /) ";
 	cin >> op;
 	
-	cout << "Entre second number: ";
+	cout << "Enter second number: ";
 	cin >> num2;
 	
 	//process based on operators
@@ -45,3 +45,4 @@
   system ("pause");
   return 0;
  	}
+
